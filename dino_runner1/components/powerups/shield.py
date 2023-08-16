@@ -1,5 +1,5 @@
-from dino_runner.utils.constants import SHIELD, SHIELD_TYPE
-from dino_runner.components.powerups.power_up import PowerUp
+from dino_runner1.utils.constants import SHIELD, SHIELD_TYPE
+from dino_runner1.components.powerups.power_up import PowerUp
 
 
 class Shield(PowerUp):
